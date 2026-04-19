@@ -1,2 +1,1 @@
-du kan altså også godt bestå selv
-nu virker det
+det skal gå stærkt så øv dig igen
