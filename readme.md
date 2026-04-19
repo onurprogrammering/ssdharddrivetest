@@ -5,4 +5,5 @@ send en besked
 nu 
 ja
 vent
+ja nu 
 
