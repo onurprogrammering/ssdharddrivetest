@@ -3,3 +3,6 @@ har ghort det
 
 send en besked
 nu 
+ja
+vent
+
