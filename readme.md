@@ -11,3 +11,4 @@ Prøv at sende en besked til mig nu
 hej 
 Send den igennem det her program
 Yes, så skal beskeden bare sendes. Modtager den ikke før
+e
