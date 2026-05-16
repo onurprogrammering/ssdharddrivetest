@@ -1,16 +1,1 @@
-Prøv at skrive noget og send
-
-Her i dokumentet, 
-
-opgave 2 Nu viser jeg hvordan man skriver beskeder. Så lad os lige teste, om det kan lade sig gøre.
-
-Når du trykker ind på readme.md filen så ser du både mine beskeder samt også de opgaver der bliver lavet.
-
-Prøv at sende en besked til mig nu
-
-hej 
-Send den igennem det her program
-Yes, så skal beskeden bare sendes. Modtager den ikke før
-e
-
-her skriver jeg 
+Skriver en besked for at demonstrere
